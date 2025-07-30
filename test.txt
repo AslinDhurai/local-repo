@@ -1,1 +1,5 @@
+<<<<<<< ours
 Hi, This is for making a conflict
+=======
+Hello, I'm trying to make a conflict
+>>>>>>> theirs
